@@ -6,7 +6,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 class ApplicationTest {
 
-    private Application application = new Application();
+    private final Application application = new Application();
 
     @Test
     void sayHello() {
