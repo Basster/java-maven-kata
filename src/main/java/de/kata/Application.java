@@ -1,4 +1,4 @@
-package fr.kata;
+package de.kata;
 
 public class Application {
 
